@@ -1,4 +1,4 @@
-<p align="left">Hi! I'm Shreya Srivastava. I'm a passionate IT student from IGDTUW</p>
+<p align="left">Hi! I'm Shreya Srivastava. I'm a first year IT student from IGDTUW</p>
 
 ###
 
