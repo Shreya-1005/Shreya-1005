@@ -1,9 +1,16 @@
-<p align="left">Hi! I'm Shreya Srivastava. I'm a first year IT student from IGDTUW</p>
+## 👋 Hi, I’m Shreya Srivastava!
+
+🎓 Currently pursuing **Information Technology** at **IGDTUW**  
+🌱 Exploring **Data Science**, **Machine Learning**, **Deep Learning**, **Computer Vision**, and **Web Development**  
+💻 Passionate about building real-world projects and solving meaningful problems  
+📊 Latest: Just completed a mini project: Who’s in Your Wallet? – analyzing patterns in banknote representation.
+
+---
 
 ###
 
 <div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=Shreya-1005&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Shreya-1005&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shreya-1005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
@@ -26,6 +33,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
+<br>
 
 ###
 
@@ -37,16 +45,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreya-1005&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
 
 <!--
 **Shreya-1005/Shreya-1005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
