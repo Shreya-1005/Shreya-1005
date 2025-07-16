@@ -2,9 +2,9 @@
 
 🎓 Currently pursuing **Information Technology** at **IGDTUW**  
 🌱 Exploring **Data Science**, **Machine Learning**, **Deep Learning**, **Computer Vision**, and **Web Development**  
-💻 Passionate about building real-world projects and solving meaningful problems
-🤖 Would love to collaborate on solving various tech & real-world problems.
-📊 Latest: Just completed a mini project: Who’s in Your Wallet? – analyzing patterns in banknote representation.
+💻 Passionate about building real-world projects and solving meaningful problems <br/>
+🤖 Would love to collaborate on solving various tech & real-world problems. <br/>
+📊 Latest: Just completed a mini project: Real-Time Happiness Detector using OpenCV.
 
 ---
 
