@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Shreya Srivastava!
 
-🎓 Currently pursuing **Information Technology** at **IGDTUW**  
+🎓 Currently pursuing **Computer Science and Engineering with a specialization in AI** at **IGDTUW**  
 🌱 Exploring **Data Science**, **Machine Learning**, **Deep Learning**, **Computer Vision**, and **Web Development**  
 💻 Passionate about building real-world projects and solving meaningful problems <br/>
 🤖 Would love to collaborate on solving various tech & real-world problems. <br/>
