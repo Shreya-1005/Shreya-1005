@@ -1,14 +1,10 @@
-## 👋 Hi, I’m Shreya Srivastava!
+## hii, I’m Shreya Srivastava!
 
-🎓 Currently pursuing **Computer Science and Engineering with a specialization in AI** at **IGDTUW**  
-🌱 Exploring **Data Science**, **Machine Learning**, **Deep Learning**, **Computer Vision**, and **Web Development**  
-💻 Passionate about building real-world projects and solving meaningful problems <br/>
-🤖 Would love to collaborate on solving various tech & real-world problems. <br/>
-📊 Latest: Just completed a mini project: Real-Time Happiness Detector using OpenCV.
-
----
-
-### 📊 Stats
+🎓 currently pursuing **Computer Science and Engineering with a specialization in AI** at **IGDTUW**  
+🌱 exploring **Data Science**, **Machine Learning**, **Deep Learning**, **Computer Vision**, and **Web Development**  
+💻 passionate about building real-world projects and solving meaningful problems <br/>
+🤖 would love to collaborate on solving various tech & real-world problems. <br/>
+📊 latest: Just completed a mini project: Real-Time Happiness Detector using OpenCV.
 
 <div align="center">
 <img src ="https://github-readme-stats.vercel.app/api?username=Shreya-1005&show_icons=true&theme=tokyonight&width=320&hide=stars" height="150" />
@@ -16,15 +12,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shreya-1005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
----
-
-### 💻 Tech Stack
+### tech stack
 
 <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo" /> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
----
-
-### 🤝 Let's Connect!
+### let's talk!
 
 <div align="left">
   <a href="https://www.linkedin.com/in/shreya-srivastava-780341314/" target="_blank">
