@@ -1,4 +1,4 @@
-## hii, i’m shreya srivastava!
+## hii, i’m shreya!
 
 🎓 currently pursuing **Computer Science and Engineering with a specialization in AI** at **IGDTUW**  
 🌱 exploring **Data Science**, **Machine Learning**, **Deep Learning**, **Computer Vision**, and **Web Development**  
