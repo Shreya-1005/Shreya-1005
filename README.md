@@ -1,10 +1,11 @@
 ## hii, i’m shreya!
 
-🎓 currently pursuing **Computer Science and Engineering with a specialization in AI** at **IGDTUW**  
-🌱 exploring **Data Science**, **Machine Learning**, **Deep Learning**, **Computer Vision**, and **Web Development**  
-💻 passionate about building real-world projects and solving meaningful problems <br/>
-🤖 would love to collaborate on solving various tech & real-world problems. <br/>
-📊 latest: Just completed a mini project: Real-Time Happiness Detector using OpenCV.
+<div align="center">
+currently pursuing <b>Computer Science and Engineering with a specialization in AI</b> at <b>IGDTUW</b>  <br/>
+exploring <b>Data Science</b>, <b>Machine Learning</b>, <b>Deep Learning</b>, <b>Computer Vision</b>, and <b>Web Development</b> <br/>
+passionate about building real-world projects and solving meaningful problems <br/>
+would love to collaborate on solving various tech & real-world problems. <br/>
+latest: Just completed a mini project: Real-Time Happiness Detector using OpenCV.  </div> <br/>
 
 <div align="center">
 <img src ="https://github-readme-stats.vercel.app/api?username=Shreya-1005&show_icons=true&theme=tokyonight&width=320&hide=stars" height="150" />
