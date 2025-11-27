@@ -8,9 +8,9 @@ would love to collaborate on solving various tech & real-world problems. <br/>
 latest: Just completed a mini project: Real-Time Happiness Detector using OpenCV.  </div> <br/>
 
 <div align="center">
-<img src ="https://github-readme-stats.vercel.app/api?username=Shreya-1005&show_icons=true&theme=tokyonight&width=320&hide=stars" height="150" />
+<img src ="https://github-readme-stats.vercel.app/api?username=Shreya-1005&show_icons=true&theme=apprentice&width=320&hide=stars" height="150" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shreya-1005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya-1005&layout=donut&theme=apprentice" height="150" />
 </div>
 
 ### tech stack
