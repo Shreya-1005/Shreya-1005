@@ -8,7 +8,7 @@ would love to collaborate on solving various tech & real-world problems. <br/>
 latest: Just completed a mini project: Real-Time Happiness Detector using OpenCV.  </div> <br/>
 
 <div align="center">
-<img src = "https://streak-stats.demolab.com/?user=Shreya-1005&theme=apprentice"  height="250" /> <br/> <br/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Shreya-1005&theme=apprentice" alt="GitHub Streak" /></a> <br/> <br/>
   
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya-1005&layout=donut&theme=apprentice" height="250" />
 </div>
