@@ -5,7 +5,7 @@ currently pursuing <b>Computer Science and Engineering with a specialization in 
 exploring <b>Data Science</b>, <b>Machine Learning</b>, <b>Deep Learning</b>, <b>Computer Vision</b>, and <b>Web Development</b> <br/>
 passionate about building real-world projects and solving meaningful problems <br/>
 would love to collaborate on solving various tech & real-world problems. <br/>
-latest: Just completed a mini project: Real-Time Happiness Detector using OpenCV.  </div> <br/>
+in the works: dear diary.  </div> <br/>
 
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-sigma-kohl.vercel.app?user=Shreya-1005&theme=apprentice" alt="GitHub Streak" /></a> <br/> <br/>
