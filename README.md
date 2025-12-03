@@ -9,8 +9,7 @@ in the works: dear diary.  </div> <br/>
 
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-sigma-kohl.vercel.app?user=Shreya-1005&theme=apprentice" alt="GitHub Streak" /></a> <br/> <br/>
-  
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya-1005&layout=donut&theme=apprentice" height="250" />
+<a><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya-1005&layout=donut&theme=apprentice" alt = "Languages" /> </a>
 </div>
 
 ### tech stack
